@@ -1,19 +1,5 @@
 # Hi, This my profile 👋
 
-<!--
-**Dmiyo/Dmiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - <h4> 😄 About Me ... </h4>
     <p>I’m an aspiring full-stack developer and content creator just starting my journey in the digital world. Right now, I’m learning to build coding projects from scratch—planning, designing, and solving small problems with code. I’m also exploring content creation, from brainstorming ideas to adding creative touches.
 
@@ -39,6 +25,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" />
   </p>
+  
 *** 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Dmiyo/count.svg?"  />
