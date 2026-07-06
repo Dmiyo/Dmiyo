@@ -11,6 +11,7 @@
     </div>
     
 ***
+
 - <h4> 🌱 My Ability ... </h4>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
@@ -27,11 +28,6 @@
   </p>
   
 *** 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Dmiyo/count.svg?"  />
-</div>
-
-###
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Dmiyo/Dmiyo/output/snake.svg" alt="Snake animation" />
